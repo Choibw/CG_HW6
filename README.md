@@ -1,6 +1,6 @@
-# 컴퓨터 그래픽스 과제 5 - 소프트웨어 래스터라이저
+# 컴퓨터 그래픽스 과제 6 - 소프트웨어 래스터라이저 쉐이딩
 1. 결과 스크린샷  
-![image](https://github.com/user-attachments/assets/fb6c0b53-371f-4ea5-91cb-fe84c869a0f9)
+
 2. 실행 방법  
 - zip파일을 다운로드 하고 압축 해제합니다.  
 - OpenglViewer.sln 파일을 열어 빌드하시면 됩니다.
