@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EmptyViewer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SceneGenerator.cpp
+C:\Users\den01\OneDrive\바탕 화면\cg_HW6\CG_hw6_Q3\SceneGenerator.cpp(25,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\cg_HW6\CG_hw6_Q3\SceneGenerator.cpp(26,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CG_hw6_Q3.vcxproj -> C:\Users\den01\OneDrive\바탕 화면\cg_HW6\bin\CG_hw6_Q3.exe
